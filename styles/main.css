@@ -5,6 +5,7 @@ body {
 .main__advertising {
   background-color: var(--color-light-gray);
   padding: 30px 100px;
+  min-height: 300px;
   display: flex;
   justify-content: space-around;
 }
